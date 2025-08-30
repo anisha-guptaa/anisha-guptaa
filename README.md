@@ -30,7 +30,11 @@
 
 📊 **[House Price EDA](#)** – Exploratory Data Analysis on Housing Dataset  
 🗄️ **[SQL Practice](#)** – Solved SQL queries with proper structure  
-📈 **[Hypothesis Testing](#)** – Z-test, T-test, Chi-Square examples with datasets  
+📈 **[Hypothesis Testing](#)** – Z-test, T-test, Chi-Square examples with datasets 
+
+**[HR Attrition and Analysis](#)** - SQL, Buisness Insights
+
+**[Swiggy Sentiment Analysis](#)** - Seaborn , Matplotlib , Rating and Reviews
 
 
 ---
